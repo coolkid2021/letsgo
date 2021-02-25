@@ -1,1 +1,2 @@
-# letsgo
+# synchronousBallMovement
+Ball moving synchronously
